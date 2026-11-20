@@ -1,0 +1,20 @@
+C:Food
+Q:Is it usually eaten as part of a meal rather than dessert?
+Q:Is it commonly served hot?
+Q:Is it made with noodles?
+A:pasta
+A:sandwich
+Q:Is it often eaten for breakfast?
+A:pancakes
+A:steak
+Q:Is it sweet?
+Q:Is it frozen?
+A:ice cream
+A:cake
+Q:Is it a fruit?
+Q:Is it yellow when ripe?
+A:banana
+A:apple
+Q:Is it salty and crunchy?
+A:chips
+A:candy

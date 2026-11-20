@@ -1,0 +1,24 @@
+C:Animals
+Q:Does it live primarily in water?
+Q:Is it a mammal?
+Q:Is it very large?
+A:whale
+A:dolphin
+Q:Does it have eight arms?
+A:octopus
+A:shark
+Q:Can it fly?
+Q:Is it a bird of prey?
+A:eagle
+A:parrot
+Q:Is it commonly kept as a pet?
+Q:Does it bark?
+A:dog
+A:cat
+Q:Is it larger than a person?
+Q:Does it have a trunk?
+A:elephant
+A:horse
+Q:Is it known for hopping?
+A:kangaroo
+A:snake

@@ -1,0 +1,36 @@
+C:Objects
+Q:Is it electronic?
+Q:Is it mainly used for communication?
+Q:Does it fit in your pocket?
+A:cell phone
+A:laptop
+Q:Is it mainly used for entertainment?
+Q:Does it usually connect to a TV?
+A:video game console
+A:tablet
+Q:Is it mainly used in the kitchen?
+Q:Is it used to keep food cold?
+A:refrigerator
+A:microwave
+Q:Is it used at a desk?
+Q:Does it display visual information?
+A:monitor
+A:printer
+A:calculator
+Q:Is it furniture?
+Q:Do people usually sit on it?
+A:chair
+A:sofa
+Q:Is it mainly used in the kitchen?
+Q:Is it used for cooking or eating?
+A:spoon
+A:plate
+Q:Is it used for cleaning?
+Q:Does it have bristles?
+A:broom
+A:sponge
+Q:Is it made mostly of paper?
+A:book
+Q:Is it something you wear?
+A:hat
+A:ball

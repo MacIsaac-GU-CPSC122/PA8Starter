@@ -1,0 +1,20 @@
+C:Sports and Games
+Q:Is it usually played with a ball?
+Q:Is it played on a court?
+Q:Is a net used?
+A:tennis
+A:basketball
+Q:Is it played on a large field?
+A:soccer
+A:golf
+Q:Is it mainly a board or table game?
+Q:Does it use a standard deck of cards?
+A:poker
+A:chess
+Q:Is it a video game?
+Q:Is it a sandbox-style game?
+A:Minecraft
+A:Mario Kart
+Q:Is it a physical activity done outdoors?
+A:hiking
+A:tag
